@@ -1,4 +1,6 @@
-<a href="https://colab.research.google.com/github/artmen1516/emotions-classification-seedv/blob/main/process_seedv_raw_files_with_mne_from_drive.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
+<a href="https://colab.research.google.com/github/artmen1516/eeg-emotion-classification-seedv/blob/main/process_seedv_raw_files_with_mne_from_drive.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 # EEG-Based Emotion Classification Using Deep Learning Models
 
